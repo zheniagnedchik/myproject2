@@ -18,7 +18,6 @@ export default function App() {
             }
             className="rounded-lg bg-blue-600 px-4 py-2 text-sm font-medium text-white transition hover:bg-blue-500 active:bg-blue-700"
           >
-            Счётчик: {count}
           </button>
         </div>
         <TailwindTest />

@@ -14,7 +14,7 @@ export default function App() {
           <button
             type="button"
             onClick={() =>
-              setCount((c) => (c < MAX_COUNT ? c + 1 : c))
+              setCount((c) => (c < MAX_COUNT ? c + 2 : c))
             }
             className="rounded-lg bg-blue-600 px-4 py-2 text-sm font-medium text-white transition hover:bg-blue-500 active:bg-blue-700"
           >
